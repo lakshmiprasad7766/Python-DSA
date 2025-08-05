@@ -3,3 +3,5 @@
 print("Hello Github, this is the first commit from my local machine")
 
 print("latest changes")
+
+print(2+3)
