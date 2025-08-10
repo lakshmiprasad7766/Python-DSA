@@ -2,7 +2,7 @@
 
 -> print("hello"world")
 
-Alright — I’ll give you a **complete Python basics guide** with **explanations + code examples** covering everything from **Stage 1: Fundamentals** in the roadmap I shared earlier.
+ **complete Python basics guide** with **explanations + code examples** covering everything from **Stage 1: Fundamentals**
 
 ---
 
