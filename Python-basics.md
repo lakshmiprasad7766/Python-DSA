@@ -40,6 +40,40 @@ print(type(height)) # float
 print(type(is_student)) # bool
 ```
 
+# Data Types:
+
+1. None -> The variable which is not assigned to any variable is called None.
+
+2. Numeric -> Int(2), float(2.5), complex(6+9j), bool(true)
+
+3.  a = 5.6
+    b = int(a)
+    type(b) = int
+
+
+# List
+L = [ 12, 33, 45,]
+
+# set
+s = {36, 12, 35, 36}
+-> it won't allow duplicates
+
+# Range
+
+range(10)
+-> list (range(10))
+[0,1,2....9]
+
+range(2,10,2) -> prints even numbers
+
+# Dictonary
+
+key should be unique, value may same/different
+
+d = {'navin': 'Samsung', 'mlp': Iphone'}
+
+
+
 ---
 
 ## **3. Operators**
