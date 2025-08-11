@@ -40,3 +40,30 @@ print('my name is ' + name[7:])
 
 print(len(name))
 
+
+#List
+nums = [33, 12, 43, 66 , 557, 78, 89, 90]
+print(nums)
+
+print(nums[0])
+
+print(nums[1:5])
+
+print(nums[2:])
+
+print(nums[-1])
+
+print(nums[-3:])
+
+# Lists are mutable
+nums[0] = 100
+print(nums) 
+
+#Pop an element
+popped_element = nums.pop(2)
+print("Popped Element: ", popped_element)
+print("List after popping: ", nums)
+
+#delete an element
+del nums[3:]
+print("List after deletion: ", nums)
